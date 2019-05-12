@@ -1,0 +1,7 @@
+Title: A monte-carlo approach to the VaR (Value at Risk)
+Slug: monte-carlo-var
+Date: 2019-05-11 14:10
+Category: Finance
+Tags:
+Author: Tiwx2
+Description: The VaR is a usefull technique for quantifying risk. Although the theory is quite straight forward, the application migh prove a bit tricky. In this article, you will find one approach to implementing the VaR using Python. A special emphasis has been placed on the problem of taking correlation into account when implementing the method.
