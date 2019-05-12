@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:tiwx2/tiwx2.github.io.git
